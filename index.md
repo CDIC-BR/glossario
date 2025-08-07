@@ -2,4 +2,4 @@
 title: Home
 layout: home
 ---
-![Logo da CNBB](agithub\assets\CNBB.png)
+![Logo da CNBB](assets\CNBB.png)
