@@ -18,6 +18,8 @@ layout: Glossário
 - [Basílica Instituição](#basilica-instituicao)
 - [Bispo](#bispo)
 - [Basílica Paróquia](#basilica-paroquia)
+  
+  ## C
 - [Conselho Pastoral](#conselho-pastoral)
 - [CNBB](#cnbb)
 - [Cúria](#curia)
@@ -82,6 +84,8 @@ layout: Glossário
 - [Conselho Permanente](#conselho-permanente)
 - [CPT (Comissão Pastoral da Terra)](#cpt-comissao-pastoral-da-terra)
 - [CRB (Conferência dos Religiosos do Brasil)](#crb-conferencia-dos-religiosos-do-brasil)
+
+  ## D
 - [Diocese](#diocese)
 - [Direito Pontifício](#direito-pontifício)
 - [Direito Diocesano](#direito-diocesano)
@@ -93,6 +97,8 @@ layout: Glossário
 - [Diácono Transitório](#diácono-transitório)
 - [Diocesano](#diocesano)
 - [Direito Litúrgico](#direito-litúrgico)
+
+  ## E
 - [Elenco Geral](#elenco-geral)
 - [Ex-Officio](#ex-officio)
 - [Esmoler](#esmoler)
@@ -103,7 +109,11 @@ layout: Glossário
 - [Elenco de leigos seculares](#elenco-de-leigos-seculares)
 - [Eremitas](#eremitas)
 - [Exarcado Apostólico](#exarcado-apostólico)
+
+  ## F
 - [Formação de clérigos](#formação-de-clérigos)
+
+  ## I
 - [Institutos Religiosos](#institutos-religiosos)
 - [Institutos Seculares](#institutos-seculares)
 - [Igreja Particular](#igreja-particular)
@@ -113,21 +123,31 @@ layout: Glossário
 - [Irmão professo](#irmão-professo)
 - [Instituições Eclesiásticas](#instituições-eclesiásticas)
 - [Institutos de Vida Consagrada (IVC)](#institutos-de-vida-consagrada-ivc)
+
+  ## L
 - [Liber Pontificalis](#liber-pontificalis)
 - [Laicato](#laicato)
 - [Legados Pontifícios](#legados-pontifícios)
 - [Leigo secular](#leigo-secular)
+
+  ## M
 - [Metropolita](#metropolita)
 - [Moderador da cúria](#moderador-da-cúria)
 - [Monsenhor](#monsenhor)
 - [MEB (Movimento de Educação de Base)](#meb-movimento-de-educação-de-base)
+
+  ## N
 - [Núncio](#núncio)
+
+  ## O
 - [Ordem das Virgens](#ordem-das-virgens)
 - [Organismos](#organismos)
 - [Ordinariado Militar](#ordinariado-militar)
 - [OSIB](#osib-organização-dos-seminários-e-institutos-filosófico-teológicos-do-brasil)
 - [Outros Conselhos](#outros-conselhos)
 - [Órgãos Filiais](#órgãos-filiais)
+
+  ## P
 - [Paróquias](#paróquias)
 - [Pároco](#pároco)
 - [Prelatura Territorial](#prelatura-territorial)
