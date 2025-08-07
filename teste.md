@@ -1,1 +1,5 @@
-#teste
+---
+title: teste
+layout: teste
+---
+[teste]
