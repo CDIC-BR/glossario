@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Glossario
 layout: home
 ---
 
