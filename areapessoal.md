@@ -1,5 +1,5 @@
 ---
 title: Área Pessoal
-layout: pages
+layout: page
 ---
 
