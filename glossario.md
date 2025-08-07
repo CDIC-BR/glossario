@@ -1,3 +1,7 @@
+---
+title: Glossário
+layout: Glossário
+---
 ## Índice do Glossário
 
 - [Administrador Paroquial](#administrador-paroquial)
