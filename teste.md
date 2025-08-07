@@ -1,5 +1,5 @@
 ---
-title: teste
-layout: teste
+title: Glossario
+layout: Glossario
 ---
-[teste]
+[glossario.md]
