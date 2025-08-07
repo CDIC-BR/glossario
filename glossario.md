@@ -4,6 +4,7 @@ layout: Glossário
 ---
 ## Índice do Glossário
 
+## A
 - [Administrador Paroquial](#administrador-paroquial)
 - [Associações de Fiéis](#associacoes-de-fieis)
 - [Abadia Territorial](#abadia-territorial)
@@ -12,6 +13,8 @@ layout: Glossário
 - [Arquidiocese](#arquidiocese)
 - [Arquieparquia](#arquieparquia)
 - [Assembleia Geral](#assembleia-geral)
+  
+  ## B
 - [Basílica Instituição](#basilica-instituicao)
 - [Bispo](#bispo)
 - [Basílica Paróquia](#basilica-paroquia)
