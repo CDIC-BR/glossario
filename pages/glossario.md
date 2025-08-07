@@ -176,9 +176,9 @@ layout: page
 
 ---
 
-### Administrador Paroquial <a id="administrador-paroquial"></a>
+# `Administrador Paroquial` <a id="administrador-paroquial"></a>
 
-> “Enquanto a sé se encontrar vaga ou impedida (pároco), pertence ao Administrador diocesano ou outrem que interinamente governe a diocese”.  
+**Descrição:** “Enquanto a sé se encontrar vaga ou impedida (pároco), pertence ao Administrador diocesano ou outrem que interinamente governe a diocese”.  
 **Fonte:** Cân. 525
 
 ---
