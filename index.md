@@ -1,5 +1,5 @@
 ---
-title: Glossário
+title: Glossário CDIC-BR
 layout: home
 ---
 
