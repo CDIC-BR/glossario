@@ -1,6 +1,6 @@
 ---
 title: Glossário
-layout: pages
+layout: page
 ---
 
 **Índice Rápido:**
