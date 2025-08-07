@@ -1,5 +1,5 @@
 ---
 title: Fiéis
-layout: pages
+layout: page
 ---
 
