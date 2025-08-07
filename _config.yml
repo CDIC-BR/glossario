@@ -9,27 +9,3 @@ aux_links:
   # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/CNBB.png"
 
-# _config.yml
-
-
-
-# Configuração da navegação principal
-nav_pages:
-  - title: "Home"
-    url: "/"
-  - title: "Glossário"
-    url: "/glossario"
-  - title: "Área Pessoal"
-    url: "/areapessoal"
-  - title: "Configuração"
-    url: "/configuracao"
-  - title: "Dashboard"
-    url: "/dashboard"
-  - title: "Fieis"
-    url: "/fieis"
-  - title: "Formação Clerical e Laical"
-    url: "/formacaoclericallaical"
-  - title: "IVC e SVA"
-    url: "/ivc_sva"
-  - title: "CNBB"
-    url: "/cnbb"
