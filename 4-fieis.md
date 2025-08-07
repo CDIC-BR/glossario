@@ -12,6 +12,7 @@ layout: page
 <summary>Elenco Geral</summary>
 
 *(Anteriormente parte da seção "Gerenciamento de Membros", antigo "Elenco Geral")*
+
 **Descrição:** Subseção da seção de Fiéis (Pessoas), dedicada ao cadastro de Fiéis
 
 - ##### `Clérigos seculares`
