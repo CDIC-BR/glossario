@@ -1,6 +1,6 @@
 ---
-title: Glossario
-layout: Glossario
+title: Glossário
+layout: Glossário
 ---
 ## Índice do Glossário
 
