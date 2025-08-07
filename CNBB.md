@@ -1,5 +1,5 @@
 ---
 title: CNBB
-layout: pages
+layout: page
 ---
 
