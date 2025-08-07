@@ -1,11 +1,56 @@
+# -----------------------------------
+# Configurações do site
+# -----------------------------------
 title: Glossário CDIC-BR
-description: 
+description: Seu site em Jekyll com o tema Just the Docs.
 theme: just-the-docs
 url: https://just-the-docs.github.io
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
-
-  # Set a path/url to a logo that will be displayed instead of the title
+# -----------------------------------
+# Configurações do logo
+# -----------------------------------
+# Use o path para o logo que será exibido no lugar do título.
 logo: "/assets/CNBB.png"
 
+# -----------------------------------
+# Configurações de Front Matter Padrão (Defaults)
+# -----------------------------------
+# Define o layout padrão para todas as páginas, exceto a página inicial.
+defaults:
+  - scope:
+      path: "" # Aplica a configuração a todos os arquivos e pastas.
+      type: "pages"
+    values:
+      layout: "page"
+
+# -----------------------------------
+# Configurações de Navegação (Sidebar)
+# -----------------------------------
+# A ordem dos itens aqui define a ordem do menu lateral.
+# Mantenha os números no início dos títulos para ordenação alfabética se não usar essa configuração.
+nav_pages:
+  - title: "Home"
+    url: "/index.html"
+  - title: "Glossário"
+    url: "/glossario.html"
+  - title: "Área Pessoal"
+    url: "/areapessoal.html"
+    subpages:
+      - title: "Configuração"
+        url: "/configuracao.html"
+      - title: "Dashboard"
+        url: "/dashboard.html"
+  - title: "Fieis"
+    url: "/fieis.html"
+  - title: "Formação Clerical e Laical"
+    url: "/formacaoclericallaical.html"
+  - title: "IVC e SVA"
+    url: "/ivc_sva.html"
+  - title: "CNBB"
+    url: "/cnbb.html"
+
+# -----------------------------------
+# Configurações da Barra de Pesquisa
+# -----------------------------------
+search_enabled: true
+search_placeholder: "Pesquisar Glossário CDIC-BR"
