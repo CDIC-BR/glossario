@@ -1,0 +1,49 @@
+/*
+ * Cores personalizadas para o tema Just the Docs
+ *
+ * Você pode ajustar os códigos de cores (hexadecimais, ex: #007bff)
+ * para os tons de azul e branco que preferir.
+ */
+
+/* ==================================== */
+/* Cores principais: Azul               */
+/* ==================================== */
+:root {
+  /* Cor principal (usada em links, botões, títulos de seção, etc.) */
+  --just-the-docs-primary-color: #007bff;
+
+  /* Cor de destaque (links ativos, fundo de botões secundários) */
+  --just-the-docs-accent-color: #0056b3;
+
+  /* Cor para fundo de código ou destaques leves */
+  --just-the-docs-code-bg: #f5f5f5;
+
+  /* Cor de links e texto de destaque */
+  --just-the-docs-link-color: #007bff;
+
+  /* Cor de links em estado de hover (quando o mouse passa por cima) */
+  --just-the-docs-link-hover-color: #0056b3;
+}
+
+
+/* ==================================== */
+/* Cores de fundo e texto: Branco       */
+/* ==================================== */
+:root {
+  /* Cor de fundo principal */
+  --just-the-docs-bg: #ffffff;
+
+  /* Cor de fundo secundário (usado na barra lateral) */
+  --just-the-docs-secondary-bg: #f8f9fa;
+
+  /* Cor do texto principal */
+  --just-the-docs-fg: #212529;
+
+  /* Cor do texto secundário ou de rodapé */
+  --just-the-docs-secondary-fg: #6c757d;
+
+  /* Cor do fundo da barra de busca */
+  --just-the-docs-search-bg: #ffffff;
+
+  /* Cor do texto na barra de busca */
+  --just-the-docs-search-fg: #212529;
