@@ -1,5 +1,5 @@
 ---
 title: Dashboard
-layout: pages
+layout: page
 ---
 
