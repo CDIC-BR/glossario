@@ -56,6 +56,8 @@ nav_pages:
     url: "/7-ivc_sva.html"
   - title: "Cadastros"
     url: "/8-cadastros.html"
+    - title: "Mapa"
+    url: "/mapa-EDITORA-CDIC02.html"
     subpages:
       - title: "Configuração"
         url: "/9-configuracao.html"
