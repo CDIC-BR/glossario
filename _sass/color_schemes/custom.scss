@@ -1,22 +1,17 @@
-:root {
-  /* Cor de fundo principal do conteúdo */
-  --just-the-docs-bg: #ffffff;
+SCSS
 
-  /* Cor de fundo da barra lateral (sidebar) */
-  --just-the-docs-secondary-bg: #f0f0f0;
+// Adicione suas variáveis de cor personalizadas aqui.
+// Você pode encontrar todas as variáveis disponíveis na documentação do Just the Docs.
 
-  /* Cor principal para links, títulos, botões e mais */
-  --just-the-docs-primary-color: #007bff;
+// Cores de fundo
+$body-bg: #ffffff;
+$sidebar-bg: #f8f8f8;
 
-  /* Cor de destaque para links ativos e botões secundários */
-  --just-the-docs-accent-color: #0056b3;
+// Cores do texto
+$body-text-color: #212529;
+$sidebar-nav-link-color: #495057;
 
-  /* Cor do texto principal */
-  --just-the-docs-text-color: #212529;
-
-  /* Cor de links */
-  --just-the-docs-link-color: #007bff;
-
-  /* Cor de links ao passar o mouse */
-  --just-the-docs-link-hover-color: #0056b3;
-}
+// Cores de destaque
+$link-color: #007bff;
+$link-hover-color: #0056b3;
+$btn-primary-color: #007bff;
