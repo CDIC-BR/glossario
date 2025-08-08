@@ -1,6 +1,6 @@
 ---
 title: Fiéis
-layout: page
+layout: default
 ---
 
 # 4. Fiéis <a id="fieis"></a>
