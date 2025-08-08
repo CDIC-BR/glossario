@@ -1,4 +1,3 @@
-
 # -----------------------------------
 # Configurações do site
 # -----------------------------------
@@ -40,9 +39,17 @@ defaults:
 # -----------------------------------
 nav_pages:
   - title: "Home"
-    url: "/index.html"
+    url: "/"
   - title: "Glossário"
     url: "/glossario.html"
+  - title: "CNBB"
+    url: "/cnbb.html"
+  - title: "Fiéis"
+    url: "/fieis.html"
+  - title: "Formação Clerical e Laical"
+    url: "/formacaoclericallaical.html"
+  - title: "IVC e SVA"
+    url: "/ivc_sva.html"
   - title: "Área Pessoal"
     url: "/areapessoal.html"
     subpages:
@@ -50,15 +57,7 @@ nav_pages:
         url: "/configuracao.html"
       - title: "Dashboard"
         url: "/dashboard.html"
-  - title: "Fiéis"
-    url: "/fieis.html"
-  - title: "Formação Clerical e Laical"
-    url: "/formacaoclericallaical.html"
-  - title: "IVC e SVA"
-    url: "/ivc_sva.html"
-  - title: "CNBB"
-    url: "/cnbb.html"
-
+  
 # -----------------------------------
 # Configurações da Barra de Pesquisa
 # -----------------------------------
