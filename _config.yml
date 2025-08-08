@@ -102,7 +102,5 @@ exclude:
   - package.json
   - package-lock.json
 
-  # -----------------------------------
-# cores
-# -----------------------------------
-color_scheme: custom
+# Color scheme supports "light" (default), "dark" and custom schemes
+color_scheme: edicoescnbb
