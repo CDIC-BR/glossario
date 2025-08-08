@@ -1,5 +1,5 @@
 ---
 title: Área Pessoal
-layout: page
+layout: default
 ---
 
