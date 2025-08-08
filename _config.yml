@@ -32,7 +32,7 @@ defaults:
       path: ""
       type: "pages"
     values:
-      layout: "default"
+      layout: "page" # Corrigido para 'page'
 
 # -----------------------------------
 # Configurações de Navegação (Sidebar)
@@ -56,8 +56,8 @@ nav_pages:
       - title: "Configuração"
         url: "/configuracao.html"
       - title: "Dashboard"
-        url: "/dashboard.html
-  
+        url: "/dashboard.html" # Aspas duplas adicionadas
+
 # -----------------------------------
 # Configurações da Barra de Pesquisa
 # -----------------------------------
@@ -70,6 +70,6 @@ search_placeholder: "Pesquisar Glossário CDIC-BR"
 heading_anchors: true
 compress_html:
   clippings: all
-  comments: [""]
+  comments: false # Corrigido para 'false'
   endings: all
   startings: [head, body]
