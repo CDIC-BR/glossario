@@ -1,6 +1,6 @@
 ---
 title: Dashboard
-layout: page
+layout: default
 ---
 
 ## `2. Dashboard`<a id="dashboard"></a>
