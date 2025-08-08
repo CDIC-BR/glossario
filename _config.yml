@@ -108,16 +108,16 @@ color_scheme: nil
 callouts_level: quiet 
 callouts:
   highlight:
-    color: yellow
+    color: blue
   important:
     title: Important
     color: blue
   new:
     title: New
-    color: green
+    color: blue
   note:
     title: Note
-    color: purple
+    color: blue
   warning:
     title: Warning
-    color: red
+    color: blue
