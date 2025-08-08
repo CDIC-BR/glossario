@@ -1,17 +1,24 @@
-SCSS
+// _sass/color_schemes/edicoescnbb.scss
 
-// Adicione suas variáveis de cor personalizadas aqui.
-// Você pode encontrar todas as variáveis disponíveis na documentação do Just the Docs.
+// Importa o esquema de cores light como base.
+@import "./light";
 
-// Cores de fundo
-$body-bg: #ffffff;
-$sidebar-bg: #f8f8f8;
+// Define a paleta de cores. O azul principal da CNBB é #0076F1.
+$cnbb-blue: #0076F1;
 
-// Cores do texto
-$body-text-color: #212529;
-$sidebar-nav-link-color: #495057;
+// Define as cores de links e da navegação com a cor principal.
+$link-color: $cnbb-blue;
+$nav-link-color: $cnbb-blue;
 
-// Cores de destaque
-$link-color: #007bff;
-$link-hover-color: #0056b3;
-$btn-primary-color: #007bff;
+// Altera a cor de destaque (hover) para algo que combine.
+$link-hover-color: darken($cnbb-blue, 15%); 
+$nav-link-hover-color: darken($cnbb-blue, 15%);
+
+// Muda o fundo da barra lateral para branco se não for o padrão.
+$sidebar-color: #ffffff; 
+
+// Altera a cor do texto no body para um tom de cinza escuro para melhor legibilidade.
+$body-text-color: #333333;
+
+// Define a cor de fundo do site.
+$body-background-color: #f9f9f9; 
