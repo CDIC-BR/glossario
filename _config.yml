@@ -39,13 +39,13 @@ defaults:
 # -----------------------------------
 nav_pages:
   - title: "Home"
-    url: "/index.html"
+    url: "/home.html"
   - title: "Glossário"
     url: "/glossario.html"
   - title: "CNBB"
-    url: "/cnbb.html"
+    url: "/3-cnbb.html"
   - title: "Fiéis"
-    url: "/fieis.html"
+    url: "/4-fieis.html"
   - title: "Formação Clerical e Laical"
     url: "/formacaoclericallaical.html"
   - title: "IVC e SVA"
