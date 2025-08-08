@@ -1,6 +1,6 @@
 ---
 title: Igreja Particular
-layout: page
+layout: default
 ---
 
 # `5. Igreja Particular`<a id="igreja-particular"></a>
