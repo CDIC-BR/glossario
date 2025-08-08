@@ -1,6 +1,6 @@
 ---
 title: Formação Clerical e Laical
-layout: page
+layout: default
 ---
 
 # `7. Formação Clerical e Laical`<a id="formacao"></a>
