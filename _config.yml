@@ -75,3 +75,8 @@ compress_html:
   endings: all
   startings: [head, body]
 
+markdown: kramdown
+kramdown:
+  input: GFM
+  parse_block_html: true
+  hard_wrap: false
