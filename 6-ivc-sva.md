@@ -1,6 +1,6 @@
 ---
 title: IVC e SVA
-layout: page
+layout: default
 ---
 
 # `6. IVC e SVA`<a id="ivc-sva"></a>
