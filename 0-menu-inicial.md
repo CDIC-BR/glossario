@@ -1,3 +1,8 @@
+---
+title: Menu Inicial
+layout: default
+---
+
 <span style="font-family: Encode Sans Condensed, serif;">
 <!-- fim seção -->
 ## `Área Pessoal` <a id="area-pessoal"></a>
