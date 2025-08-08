@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: home
+layout: default
 ---
 ![Logo da CNBB](/assets/CNBB.png)
 
