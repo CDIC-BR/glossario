@@ -11,3 +11,7 @@ gem "kramdown-parser-gfm"
 
 # Adiciona suporte a HTML seguro dentro do Markdown
 gem "jekyll-include-cache"
+
+gem "jekyll-default-layout"
+
+- jekyll-default-layout
