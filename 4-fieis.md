@@ -3,31 +3,30 @@ title: Fiéis
 layout: page
 ---
 
-# `4. Fiéis`<a id="fieis"></a>
-**Descrição:**\
-**Seção/Nome V1:** Membros
-</details>
-<!-- Elenco Geral -->
+# 4. Fiéis <a id="fieis"></a>
+
+**Descrição:**  
+**Seção/Nome v1:** Membros
+
+---
+
 <details>
-<summary>Elenco Geral</summary>
+<summary><strong>Elenco Geral</strong></summary>
 
 *(Anteriormente parte da seção "Gerenciamento de Membros", antigo "Elenco Geral")*
 
-**Descrição:** Subseção da seção de Fiéis (Pessoas), dedicada ao cadastro de Fiéis
+**Descrição:** Subseção da seção de Fiéis (Pessoas), dedicada ao cadastro de Fiéis.
 
-- ##### `Clérigos seculares`
-    *(Antigo "Elenco Geral")*
-    **Descrição:** Subseção da seção de Fiéis (Pessoas), dedicada ao cadastro de Fiéis clérigos diocesanos.
+### Clérigos Seculares  
+*(Antigo "Elenco Geral")*  
+**Descrição:** Subseção da seção de Fiéis (Pessoas), dedicada ao cadastro de Fiéis clérigos diocesanos.
 
-- ##### `Irmãos Professos`
-    *(Antigo "Elenco Geral")* 
-    **Descrição:** Subseção da seção de Fiéis (Pessoas), dedicada ao cadastro de Fiéis religiosos e que proferam votos de consagração em IVCs e SVAs.
+### Irmãos Professos  
+*(Antigo "Elenco Geral")*  
+**Descrição:** Subseção da seção de Fiéis (Pessoas), dedicada ao cadastro de Fiéis religiosos e que professam votos de consagração em IVCs e SVAs.
 
-- ##### `Leigos`
-    *(Antigo "Fiés Leigos")* 
-    **Descrição:** Subseção da seção de Fiéis (Pessoas), dedicada ao cadastro de Fiéis leigos que exercem ofício na Igreja.
+### Leigos  
+*(Antigo "Fiéis Leigos")*  
+**Descrição:** Subseção da seção de Fiéis (Pessoas), dedicada ao cadastro de Fiéis leigos que exercem ofício na Igreja.
 
 </details>
-
-<!-- fim seção -->
----
