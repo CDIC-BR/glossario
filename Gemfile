@@ -5,3 +5,5 @@ gem "github-pages", group: :jekyll_plugins
 
 # Usa o tema Just the Docs na versão mais recente compatível
 gem "just-the-docs"
+
+gem "jekyll-default-layout"
