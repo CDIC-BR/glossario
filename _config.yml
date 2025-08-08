@@ -49,9 +49,9 @@ nav_pages:
     url: "/cadastros.html"
     subpages:
       - title: "Configuração"
-        url: "/9-configuracao.html"
+        url: "/configuracao.html"
       - title: "Dashboard"
-        url: "/2-dashboard.html"
+        url: "/dashboard.html"
 
 # -----------------------------------
 # Configurações do Mermaid.js (reativado)
