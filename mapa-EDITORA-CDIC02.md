@@ -1,3 +1,8 @@
+---
+title: Mapa
+layout: default
+---
+
 # Seções do Sistema CDIC-BR
 
 ## Índice do Glossário
