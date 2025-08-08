@@ -11,7 +11,7 @@ layout: default
 ---
 
 <details markdown="1">
-<summary><strong>Elenco Geral</strong></summary>
+<summary><strong>Elenco Geral</strong></summary markdown="1">
 
 *(Anteriormente parte da seção "Gerenciamento de Membros", antigo "Elenco Geral")*  
 
@@ -35,4 +35,4 @@ layout: default
 
 **Descrição:** Subseção da seção de Fiéis (Pessoas), dedicada ao cadastro de Fiéis leigos que exercem ofício na Igreja.  
 
-</details>
+</details markdown="1">
