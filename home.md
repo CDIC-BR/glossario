@@ -1,3 +1,8 @@
+---
+title: Home
+layout: home
+---
+
 <span style="font-family: Encode Sans Condensed, serif;">
 
 # Seções do Sistema CDIC-BR
