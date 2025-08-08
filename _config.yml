@@ -103,4 +103,4 @@ exclude:
   - package-lock.json
 
 # Color scheme supports "light" (default), "dark" and custom schemes
-color_scheme: edicoescnbb
+color_scheme: light
