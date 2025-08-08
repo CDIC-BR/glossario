@@ -1,3 +1,4 @@
+
 # -----------------------------------
 # Configurações do site
 # -----------------------------------
@@ -19,10 +20,9 @@ kramdown:
   input: GFM
   hard_wrap: false
   auto_ids: true
+  parse_block_html: true # Permite HTML dentro do Markdown
   syntax_highlighter_opts:
     disable: true
-
-# Permite HTML dentro do Markdown
 highlighter: rouge
 
 # -----------------------------------
@@ -68,15 +68,9 @@ search_placeholder: "Pesquisar Glossário CDIC-BR"
 # -----------------------------------
 # Opções Extras
 # -----------------------------------
-heading_anchors: true  # adiciona âncoras clicáveis aos títulos
+heading_anchors: true
 compress_html:
   clippings: all
-  comments: ["<!--", "-->"]
+  comments: [""]
   endings: all
   startings: [head, body]
-
-markdown: kramdown
-kramdown:
-  input: GFM
-  parse_block_html: true
-  hard_wrap: false
