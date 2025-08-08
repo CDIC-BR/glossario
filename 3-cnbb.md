@@ -1,6 +1,6 @@
 ---
 title: CNBB
-layout: page
+layout: default
 ---
 
 # `3. CNBB`<a id="cnbb"></a>
