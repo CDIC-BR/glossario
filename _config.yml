@@ -31,34 +31,22 @@ defaults:
 nav_pages:
   - title: "Home"
     url: "/home.html"
-    nav_order: 1
   - title: "Glossário"
     url: "/glossario.md"
-    nav_order: 2
   - title: "Área Pessoal"
     url: "/area-pessoal.html"
-    nav_order: 3
   - title: "CNBB"
     url: "/cnbb.html"
-    nav_order: 4
   - title: "Fiéis"
     url: "/fieis.html"
-    nav_order: 5
   - title: "Igreja Particular"
     url: "/igreja.html"
-    nav_order: 6
   - title: "Formação Clerical e Laical"
     url: "/formacao.html"
-    nav_order: 7
   - title: "IVC e SVA"
     url: "/ivc_sva.html"
   - title: "Cadastros"
     url: "/cadastros.html"
-    nav_order: 8
-  - title: "Mapa"
-    url: "/mapa-EDITORA-CDIC02.html"
-    nav_order: 9
-    
     subpages:
       - title: "Configuração"
         url: "/9-configuracao.html"
