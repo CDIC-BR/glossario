@@ -31,24 +31,34 @@ defaults:
 nav_pages:
   - title: "Home"
     url: "/home.html"
+    nav_order: 1
   - title: "Glossário"
     url: "/glossario.md"
+    nav_order: 2
   - title: "Área Pessoal"
-    url: "/1-area-pessoal.html"
+    url: "/area-pessoal.html"
+    nav_order: 3
   - title: "CNBB"
-    url: "/3-cnbb.html"
+    url: "/cnbb.html"
+    nav_order: 4
   - title: "Fiéis"
-    url: "/4-fieis.html"
+    url: "/fieis.html"
+    nav_order: 5
   - title: "Igreja Particular"
-    url: "/5-igreja.html"
+    url: "/igreja.html"
+    nav_order: 6
   - title: "Formação Clerical e Laical"
-    url: "/6-formacao.html"
+    url: "/formacao.html"
+    nav_order: 7
   - title: "IVC e SVA"
-    url: "/7-ivc_sva.html"
+    url: "/ivc_sva.html"
   - title: "Cadastros"
-    url: "/8-cadastros.html"
+    url: "/cadastros.html"
+    nav_order: 8
   - title: "Mapa"
     url: "/mapa-EDITORA-CDIC02.html"
+    nav_order: 9
+    
     subpages:
       - title: "Configuração"
         url: "/9-configuracao.html"
@@ -69,7 +79,7 @@ permalink: pretty
 heading_anchors: true
 aux_links_new_tab: false
 nav_enabled: true
-nav_sort: case_sensitive
+nav_sort: none
 back_to_top: true
 back_to_top_text: "Voltar ao topo"
 
