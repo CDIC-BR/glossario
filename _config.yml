@@ -1,194 +1,105 @@
 # -----------------------------------
-
 # Configurações do site (personalizadas)
-
 # -----------------------------------
-
 title: Glossário CDIC-BR
-
 description: Glossário de termos da Conferência Nacional dos Bispos do Brasil
-
-baseurl: "" # Mantenha vazio se não estiver em subdiretório
-
-url: "https://cdic-br.github.io/glossario/" # URL base do projeto
-
+baseurl: "/glossario" # Alterado de "" para o nome do repositório
+url: "https://cdic-br.github.io" # Alterado para a URL base do domínio
 repository: cdic-br/glossario # Para github-metadata
- 
-# -----------------------------------
 
+# -----------------------------------
 # Configurações do tema
-
 # -----------------------------------
-
 theme: just-the-docs
-
 logo: "/assets/CNBB.png" # Caminho do seu logo
-
 search_enabled: true
-
 search_placeholder: "Pesquisar Glossário CDIC-BR"
- 
-# -----------------------------------
 
+# -----------------------------------
 # Configurações de Front Matter
-
 # -----------------------------------
-
 defaults:
-
   - scope:
-
       path: ""
-
       type: "pages"
-
     values:
-
       layout: "page"
- 
-# -----------------------------------
 
+# -----------------------------------
 # Navegação (Sidebar) - Sua versão
-
 # -----------------------------------
-
 nav_pages:
-
   - title: "Home"
-
     url: "/home.html"
-
   - title: "Glossário"
-
     url: "/glossario.html"
-
   - title: "Área Pessoal"
-
     url: "/1-area-pessoal.html"
-
   - title: "CNBB"
-
     url: "/3-cnbb.html"
-
   - title: "Fiéis"
-
     url: "/4-fieis.html"
-
   - title: "Igreja Particular"
-
     url: "/5-igreja.html"
-
   - title: "Formação Clerical e Laical"
-
     url: "/6-formacao.html"
-
   - title: "IVC e SVA"
-
     url: "/7-ivc_sva.html"
-
   - title: "Cadastros"
-
     url: "/8-cadastros.html"
-
   - title: "Mapa"
-
     url: "/mapa-EDITORA-CDIC02.html"
-
     subpages:
-
       - title: "Configuração"
-
         url: "/9-configuracao.html"
-
       - title: "Dashboard"
-
         url: "/2-dashboard.html"
- 
-# -----------------------------------
 
+# -----------------------------------
 # Configurações do Mermaid.js (reativado)
-
 # -----------------------------------
-
 mermaid:
-
   version: "9.1.6"
-
   # Configuração adicional pode ser colocada em _includes/mermaid_config.js
- 
-# -----------------------------------
 
+# -----------------------------------
 # Configurações herdadas do Just the Docs
-
 # -----------------------------------
-
 permalink: pretty
-
 heading_anchors: true
-
 aux_links_new_tab: false
-
 nav_enabled: true
-
 nav_sort: case_sensitive
-
 back_to_top: true
-
 back_to_top_text: "Voltar ao topo"
- 
-# -----------------------------------
 
+# -----------------------------------
 # Configurações técnicas
-
 # -----------------------------------
-
 markdown: kramdown
-
 kramdown:
-
   input: GFM
-
   hard_wrap: false
-
   auto_ids: true
-
   parse_block_html: true
-
   syntax_highlighter_opts:
-
     disable: true
- 
+
 compress_html:
-
   clippings: all
-
   comments: false
-
   endings: all
-
   startings: [head, body]
- 
-# -----------------------------------
 
+# -----------------------------------
 # Exclusões recomendadas
-
 # -----------------------------------
-
 exclude:
-
   - .sass-cache/
-
   - .jekyll-cache/
-
   - node_modules/
-
   - vendor/
-
   - Gemfile
-
   - Gemfile.lock
-
   - package.json
-
   - package-lock.json
- 
