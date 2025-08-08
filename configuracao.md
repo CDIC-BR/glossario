@@ -1,5 +1,5 @@
 ---
 title: Configuração
-layout: page
+layout: default
 ---
 
