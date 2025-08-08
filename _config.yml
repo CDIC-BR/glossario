@@ -32,7 +32,7 @@ defaults:
       path: ""
       type: "pages"
     values:
-      layout: "page"
+      layout: "default"
 
 # -----------------------------------
 # Configurações de Navegação (Sidebar)
