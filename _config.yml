@@ -9,16 +9,28 @@ url: https://just-the-docs.github.io
 # -----------------------------------
 # Configurações do logo
 # -----------------------------------
-# Use o path para o logo que será exibido no lugar do título.
 logo: "/assets/CNBB.png"
+
+# -----------------------------------
+# Parser de Markdown
+# -----------------------------------
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  syntax_highlighter_opts:
+    disable: true
+
+# Permite HTML dentro do Markdown
+highlighter: rouge
 
 # -----------------------------------
 # Configurações de Front Matter Padrão (Defaults)
 # -----------------------------------
-# Define o layout padrão para todas as páginas, exceto a página inicial.
 defaults:
   - scope:
-      path: "" # Aplica a configuração a todos os arquivos e pastas.
+      path: ""
       type: "pages"
     values:
       layout: "page"
@@ -26,8 +38,6 @@ defaults:
 # -----------------------------------
 # Configurações de Navegação (Sidebar)
 # -----------------------------------
-# A ordem dos itens aqui define a ordem do menu lateral.
-# Mantenha os números no início dos títulos para ordenação alfabética se não usar essa configuração.
 nav_pages:
   - title: "Home"
     url: "/index.html"
@@ -40,7 +50,7 @@ nav_pages:
         url: "/configuracao.html"
       - title: "Dashboard"
         url: "/dashboard.html"
-  - title: "Fieis"
+  - title: "Fiéis"
     url: "/fieis.html"
   - title: "Formação Clerical e Laical"
     url: "/formacaoclericallaical.html"
@@ -54,3 +64,14 @@ nav_pages:
 # -----------------------------------
 search_enabled: true
 search_placeholder: "Pesquisar Glossário CDIC-BR"
+
+# -----------------------------------
+# Opções Extras
+# -----------------------------------
+heading_anchors: true  # adiciona âncoras clicáveis aos títulos
+compress_html:
+  clippings: all
+  comments: ["<!--", "-->"]
+  endings: all
+  startings: [head, body]
+
