@@ -1,24 +1,26 @@
-// _sass/color_schemes/edicoescnbb.scss
+// Arquivo: _sass/custom/custom.scss
 
-// Importa o esquema de cores light como base.
-@import "./light";
+// Cor do fundo do site
+body {
+  background-color: #f9f9f9;
+}
 
-// Define a paleta de cores. O azul principal da CNBB é #0076F1.
-$cnbb-blue: #0076F1;
+// Fundo da barra lateral
+.side-bar {
+  background-color: #ffffff;
+}
 
-// Define as cores de links e da navegação com a cor principal.
-$link-color: $cnbb-blue;
-$nav-link-color: $cnbb-blue;
+// Cor dos links e do texto da navegação lateral
+.nav-list-link, a, a:hover, .nav-list-expander {
+  color: #0076F1; // Azul da CNBB
+}
 
-// Altera a cor de destaque (hover) para algo que combine.
-$link-hover-color: darken($cnbb-blue, 15%); 
-$nav-link-hover-color: darken($cnbb-blue, 15%);
+// Cor do texto do menu quando selecionado (se precisar de um hover diferente)
+.nav-list-item.active > .nav-list-link {
+    color: #00458B; // Um tom de azul mais escuro para o estado ativo
+}
 
-// Muda o fundo da barra lateral para branco se não for o padrão.
-$sidebar-color: #ffffff; 
-
-// Altera a cor do texto no body para um tom de cinza escuro para melhor legibilidade.
-$body-text-color: #333333;
-
-// Define a cor de fundo do site.
-$body-background-color: #f9f9f9; 
+// Cor do texto principal do site para garantir contraste
+.main-content {
+  color: #333333;
+}
