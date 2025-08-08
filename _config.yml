@@ -47,16 +47,16 @@ nav_pages:
   - title: "Fiéis"
     url: "/4-fieis.html"
   - title: "Formação Clerical e Laical"
-    url: "/formacaoclericallaical.html"
+    url: "/6-formacao.html"
   - title: "IVC e SVA"
-    url: "/ivc_sva.html"
-  - title: "Área Pessoal"
-    url: "/areapessoal.html"
+    url: "/7-ivc_sva.html"
+  - title: "Cadastros"
+    url: "/8-cadastros.html"
     subpages:
       - title: "Configuração"
-        url: "/configuracao.html"
+        url: "/9-configuracao.html"
       - title: "Dashboard"
-        url: "/dashboard.html"
+        url: "/2-dashboard.html"
 
 # -----------------------------------
 # Configurações da Barra de Pesquisa
