@@ -9,42 +9,51 @@ nav_order: 5
 <h1>Dashboard</h1>
 
 
-# Dashboard de Exemplo
+# Dashboard de Vendas (Simples)
 
-Este é um dashboard básico para mostrar visualmente a distribuição de alguns dados.
+<style>
+  .barra {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  .label-barra {
+    width: 150px;
+    font-weight: bold;
+  }
+  .visual-barra {
+    height: 25px;
+    background-color: #0076F1; /* Azul CNBB */
+    border-radius: 5px;
+  }
+</style>
 
-<div style="width: 80%; margin: auto;">
-  <canvas id="graficoVendas"></canvas>
+<div class="dashboard-container">
+  
+  <div class="barra">
+    <div class="label-barra">Produto A</div>
+    <div class="visual-barra" style="width: 80%;"></div>
+    <span>80%</span>
+  </div>
+
+  <div class="barra">
+    <div class="label-barra">Produto B</div>
+    <div class="visual-barra" style="width: 65%;"></div>
+    <span>65%</span>
+  </div>
+
+  <div class="barra">
+    <div class="label-barra">Produto C</div>
+    <div class="visual-barra" style="width: 50%; background-color: #E94EE1;"></div>
+    <span>50%</span>
+  </div>
+
+  <div class="barra">
+    <div class="label-barra">Produto D</div>
+    <div class="visual-barra" style="width: 30%; background-color: #333333;"></div>
+    <span>30%</span>
+  </div>
+
 </div>
 
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-
-<script>
-  const ctx = document.getElementById('graficoVendas');
-
-  new Chart(ctx, {
-    type: 'bar',
-    data: {
-      labels: ['Produto A', 'Produto B', 'Produto C', 'Produto D'],
-      datasets: [{
-        label: 'Vendas (unidades)',
-        data: [120, 190, 150, 80],
-        backgroundColor: [
-          '#0076F1', // Cor do Produto A (azul CNBB)
-          '#E94EE1', // Cor do Produto B
-          '#333333', // Cor do Produto C
-          '#D9E2E2'  // Cor do Produto D
-        ],
-        borderWidth: 1
-      }]
-    },
-    options: {
-      scales: {
-        y: {
-          beginAtZero: true
-        }
-      }
-    }
-  });
-</script>
 
