@@ -1,12 +1,12 @@
 # -----------------------------------
 # Configurações do site (personalizadas)
 # -----------------------------------
-title: Glossário CDIC-BR
+title: Repositório CDIC-BR
 description: Glossário de termos da Conferência Nacional dos Bispos do Brasil
 baseurl: "/glossario" # Alterado de "" para o nome do repositório
 url: "https://cdic-br.github.io" # Alterado para a URL base do domínio
 repository: cdic-br/glossario # Para github-metadata
-
+favicon: "/assets/CNBB.png" # define imagem de favicon
 # -----------------------------------
 # Configurações do tema
 # -----------------------------------
@@ -32,7 +32,7 @@ nav_pages:
   - title: "Home"
     url: "/home.html"
   - title: "Glossário"
-    url: "/glossario.html"
+    url: "/glossario.md"
   - title: "Área Pessoal"
     url: "/1-area-pessoal.html"
   - title: "CNBB"
