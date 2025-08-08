@@ -101,3 +101,8 @@ exclude:
   - Gemfile.lock
   - package.json
   - package-lock.json
+
+  # -----------------------------------
+# cores
+# -----------------------------------
+color_scheme: custom
